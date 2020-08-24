@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covariance.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/covariance.git/static/js/main.129590e9.chunk.js",
+    "main.js.map": "/covariance.git/static/js/main.129590e9.chunk.js.map",
+    "runtime-main.js": "/covariance.git/static/js/runtime-main.12c4d003.js",
+    "runtime-main.js.map": "/covariance.git/static/js/runtime-main.12c4d003.js.map",
+    "static/js/2.5609686c.chunk.js": "/covariance.git/static/js/2.5609686c.chunk.js",
+    "static/js/2.5609686c.chunk.js.map": "/covariance.git/static/js/2.5609686c.chunk.js.map",
+    "index.html": "/covariance.git/index.html",
+    "precache-manifest.b8e14350190c709631f6104efd071fbe.js": "/covariance.git/precache-manifest.b8e14350190c709631f6104efd071fbe.js",
+    "service-worker.js": "/covariance.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/covariance.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5609686c.chunk.js.LICENSE.txt": "/covariance.git/static/js/2.5609686c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12c4d003.js",
+    "static/js/2.5609686c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.129590e9.chunk.js"
+  ]
+}
